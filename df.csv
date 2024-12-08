@@ -1,0 +1,11 @@
+CustomerID,First_Name,Last_Name,Phone_Number,Paying Customer,Do_Not_Contact,Not_Useful_Column,Street_Address,State,Zipcode,Country
+1020,Anakin,Skywalker,876-678-3469,Y,N,True,910 Tatooine Road, Tatooine,Unknown,USA
+1013,Don,Draper,123-543-2345,Y,N,False,2039 Main Street, New York,Unknown,USA
+1001,Frodo,Baggins,123-545-5421,Y,N,True,123 Shire Lane, Shire,999999,USA
+1005,Jon,Snow,876-678-3469,Y,N,True,123 Dragons Road, New York,Unknown,USA
+1014,Leslie,Knope,876-678-3469,Y,N,False,343 City Parkway, New York,Unknown,USA
+1017,Michael ,Scott,123-643-9775,Y,N,False,121 Paper Avenue, Pennsylvania,Unknown,USA
+1010,Peter,Parker,123-545-5421,Y,N,True,25th Main Street, New York,Unknown,USA
+1016,Ron,Weasley,123-545-5421,Y,N,False,2395 Hogwarts Avenue, New York,Unknown,USA
+1008,Sherlock,Holmes,876-678-3469,N,N,False,98 Clue Drive, New York,Unknown,USA
+1015,Toby,Flenderson,304-762-2467,N,N,False,214 HR Avenue, New York,Unknown,USA
